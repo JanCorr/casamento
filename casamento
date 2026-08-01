@@ -1,0 +1,15 @@
+casamento/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── imagens/
+│      flores.png
+│      casal.jpg
+│      fundo.jpg
+│
+├── musicas/
+│      musica.mp3
+│
+└── icons/
